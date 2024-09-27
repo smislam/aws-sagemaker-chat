@@ -13,7 +13,7 @@ This application is developed using AWS CDK in TypeScript.
 * Creates an AWS API Gateway endpoint to expose that Lambda
 
 ## Steps to run and test
-* Deploy the CDK code. Wait for the deployment to finish.  It will print out the Website endpoint for you to use.  Sign up.
+* Deploy the CDK code. Wait for the deployment to finish.  It will print out the API endpoint for you to use.  Sign up.
   * ![image](test-sagemaker-jumpstart.PNG "Example of AWS Sagemaker Jumpstart in action")
 
 ## References
