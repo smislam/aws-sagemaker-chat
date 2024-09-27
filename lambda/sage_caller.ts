@@ -5,7 +5,7 @@ export const handler: Handler = async (event, context) => {
 
     const badResponse = {
         statusCode: 400,
-        body: JSON.stringify('Invalid request.  Give me a valid URL!')
+        body: JSON.stringify('Invalid request.  Give me a valid question!')
     }
 
     if (event.body && event.body !== "") {
