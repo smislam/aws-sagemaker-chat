@@ -22,4 +22,4 @@ This application is developed using AWS CDK in TypeScript.
 ## Additional Guidance
 * This POC example is very simple and doesn't include detailed configurations.
 * Doesn't provide an UI
-* This is a very expensive solution.  Please prefer [AWS Bedrock](https://aws.amazon.com/bedrock/) instead for simple solutions like these.  Here is a github example [AWS-Bedrock-Chat](https://github.com/smislam/aws-bedrock-chat) using AWS Bedrock.
+* This is a very expensive solution.  Please prefer [AWS Bedrock](https://aws.amazon.com/bedrock/) instead for simple solutions like this.  Here is a github code example [AWS-Bedrock-Chat](https://github.com/smislam/aws-bedrock-chat) that is using AWS Bedrock.
